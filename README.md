@@ -2,10 +2,10 @@
 
 I have a 10W 10 Ohm rheostat that looks like this.
 
-<img src="rheostat-1.jpg">
-<img src="rheostat-2.jpg">
+<img src="rheostat-1.jpg" width=200px>
+<img src="rheostat-2.jpg" width=200px>
 
-A bit messy to attach crocodile claps, but it works fine. One way to improve the appearance and have satisfaction of a simple project completed is to give it an enclosure.
+A bit messy to attach crocodile claps, but it works fine. One way to improve the appearance and have the satisfaction of a simple project completed is to give it an enclosure.
 
 I have PVC sheets that I salvaged from a street sign. Instead of 3d printing, I'd cut them on the table saw and glue parts together with PVC cement like [Red Hot Blue Glue][1].
 
@@ -18,15 +18,15 @@ It is around +5C now in the garage. The glue spec says to use it at 4.5C and 43C
 
 My attempt to save time only took more time. So I gave up and went with the plan B - 3D printed enclosure. Still, I could not resist trying new things, so I made an L-shaped enclosure with a few self-tapping screws this time. See CAD files.
 
-<img src="rheostat-4.jpg">
+<img src="rheostat-4.jpg" width=300px>
 
 FrontpaneleEpress2 is an excellent and free tool. I created this round dial there. I exported it to PDF, printed it on paper, glued it to the enclosure, and then sprayed it with Poly. 
 
-<img src="dial.jpg">
+<img src="dial.jpg" width=200px> 
 
 The end result
 
-<img src="rheostat-5.jpg">
+<img src="rheostat-5.jpg" width=200px>
 
 
 ---
