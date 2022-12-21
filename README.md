@@ -14,7 +14,7 @@ Unfortunately, it did not hold up. Sidewalls are tall and break apart with gentl
 <img src="rheostat-3.jpg" width=200>
 
 I have another box with much shorter (30mm?) walls, and it turned out ok. Either the heigh-to-width ratio over the glue strength or the low ambient temperature decreased the glue grip.
-It is around +5C now in the garage. The glue spec says to use it at 4.5C and 43C.
+It is around +5C now in the garage. The glue spec says to use it at 4.5C.. 43C.
 
 My attempt to save time only took more time. So I gave up and went with the plan B - 3D printed enclosure. Still, I could not resist trying new things, so I made an L-shaped enclosure with a few self-tapping screws this time. See CAD files.
 
