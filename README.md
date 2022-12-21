@@ -11,20 +11,23 @@ I have PVC sheets that I salvaged from a street sign. Instead of 3d printing, I'
 
 Unfortunately, it did not hold up. Sidewalls are tall and break apart with gentle force. So I tried again, now making sure to use the purple primer. And the results were the same.
 
-<img src="rheostat-3.jpg">
+<img src="rheostat-3.jpg" width=200>
 
 I have another box with much shorter (30mm?) walls, and it turned out ok. Either the heigh-to-width ratio over the glue strength or the low ambient temperature decreased the glue grip.
-It is around +5C now in the garage. The glue spec says to use at 4.5C and 43C.
+It is around +5C now in the garage. The glue spec says to use it at 4.5C and 43C.
 
-My attempt to save time only took more time. So I gave up and went with the plan B - 3D printed enclosure. 
-
-Still, I could not resist trying new things, so this time it was an L-shaped enclosure with a few self-tapping screws.
+My attempt to save time only took more time. So I gave up and went with the plan B - 3D printed enclosure. Still, I could not resist trying new things, so I made an L-shaped enclosure with a few self-tapping screws this time. See CAD files.
 
 <img src="rheostat-4.jpg">
 
+FrontpaneleEpress2 is an excellent and free tool. I created this round dial there. I exported it to PDF, printed it on paper, glued it to the enclosure, and then sprayed it with Poly. 
 
-One notable thing is that round dials can be created in [FrontpaneleEpress][2]
 <img src="dial.jpg">
+
+The end result
+
+<img src="rheostat-5.jpg">
+
 
 ---
 
